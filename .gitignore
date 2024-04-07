@@ -1,0 +1,5 @@
+outputs/*
+data/*
+male_data/*
+*.log
+checkpoints/*
