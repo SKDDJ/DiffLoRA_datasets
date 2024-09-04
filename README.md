@@ -1,4 +1,4 @@
-# **DiffLook Datasets Generation**
+# **DiffLoRA Datasets Generation**
 
 This Python script uses the PhotoMaker model to generate images based on prompts. It's designed to work with a set of images and text prompts, generating a new image for each combination of image and prompt.
 
